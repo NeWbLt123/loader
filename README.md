@@ -17,4 +17,4 @@ loader.manageSelf(ajaxCall);
 
 Note
 ---
-As of right now, this library only works with Telerik's Kendo UI Mobile loading panel. I don't have time to make it generic to any loading panel right now, but I will, eventually.
+This library only works with Telerik's Kendo UI Mobile loading panel. Take the `loader.js` file and modify it to fit your needs.
